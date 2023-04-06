@@ -1,0 +1,505 @@
+====================================================================================================
+.:: Puzzle statements=6 solutions=1 level=1 ::.
+1. This is a numbered list of 6 statements.
+2. Exactly 2 of the odd statements are true.
+3. Exactly 1 of the next 3 statements is false.
+4. Exactly 1 of the statements 6, 3 and 2 is true.
+5. Exactly 1 of the first 3 statements is false.
+6. Exactly 3 of the statements 3, 2 and 4 are false.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-True, 5-True, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=1 level=2 ::.
+1. This is a numbered list of 6 statements.
+2. Either statement 6 or statement 5 is false, but not both.
+3. Exactly 1 of the statements 6, 4 and 5 is false.
+4. Exactly 2 of the statements 1, 6 and 5 are false.
+5. Either statement 4 or statement 2 is true, but not both.
+6. Exactly 3 of the statements 1, 5 and 2 are false.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-False, 5-True, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=1 level=3 ::.
+1. This is a numbered list of 6 statements.
+2. Either statement 5 or statement 6 is true, or both.
+3. Exactly 1 of the first 2 statements is true.
+4. Either statement 1 or statement 5 is true, but not both.
+5. At least 3 of the even statements are false.
+6. At least 4 of the previous statements are true.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-True, 5-False, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=1 level=3 ::.
+1. This is a numbered list of 6 statements.
+2. Either statement 1 or statement 5 is true, but not both.
+3. Exactly 1 of the statements 4, 6 and 5 is true.
+4. At most 3 of the odd statements are true.
+5. Exactly 1 of the first 3 statements is false.
+6. Exactly 2 of the first 3 statements are false.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-True, 5-False, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=1 level=4 ::.
+1. This is a numbered list of 6 statements.
+2. Either statement 5 or statement 3 is true, or both.
+3. If and only if statement 6 is false, then statement 5 is false (sufficient and necessary).
+4. At most 2 of the odd statements are true.
+5. At least 3 of the previous 4 statements are false.
+6. If statement 4 is false, then statement 3 is false (sufficient).
+
+.:: Solutions ::.:
+1-True, 2-False, 3-False, 4-True, 5-False, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=1 level=4 ::.
+1. This is a numbered list of 6 statements.
+2. Statements 6 and 5 are either both true or both false.
+3. Only if statement 5 is false, then statement 6 is false (necessary).
+4. Either statement 2 or statement 3 is false, or both.
+5. Exactly 2 of the previous 4 statements are false.
+6. Statements 2 and 1 are either both true or both false.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-False, 4-True, 5-True, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=1 level=5 ::.
+1. This is a numbered list of 6 statements.
+2. Either statement 3 or statement 6 is true, or both.
+3. At least 1 of the last 2 statements is false.
+4. Only if statement 1 is true, then statements 6 and 2 are both true (necessary).
+5. Only if statement 3 is true, then statement 2 is true (necessary).
+6. At most 4 of the previous statements are true.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-True, 5-True, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=1 level=5 ::.
+1. This is a numbered list of 6 statements.
+2. Statements 4 and 6 are either both true or both false.
+3. Either statement 4 or statement 2 is true, but not both.
+4. If statement 2 is false, then statements 3 and 6 are both false (sufficient).
+5. Exactly 2 of the statements 1, 4 and 2 are false.
+6. At most 1 of the previous odd statements is false.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-False, 4-False, 5-True, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=1 level=6 ::.
+1. This is a numbered list of 6 statements.
+2. If and only if statement 4 is true, then statement 6 is false (sufficient and necessary).
+3. Statements 5 and 4 are either both true or both false.
+4. At least 1 of the first 3 statements is false.
+5. At most 1 of the first 3 statements is true.
+6. Statements 5 and 2 are either both true or both false.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-True, 5-False, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=1 level=6 ::.
+1. This is a numbered list of 6 statements.
+2. If and only if statement 3 is false, then statement 5 is true (sufficient and necessary).
+3. If statement 5 is false, then statement 2 is false (sufficient).
+4. If statement 5 is false, then statements 3 and 6 are both false (sufficient).
+5. Either statement 1 or statement 2 is false, but not both.
+6. Only if statement 4 is false, then statement 5 is false (necessary).
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-True, 5-True, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=1 level=7 ::.
+1. This is a numbered list of 6 statements.
+2. If and only if statement 3 is false, then statement 4 is false (sufficient and necessary).
+3. If and only if statement 2 is false, then statement 6 is true (sufficient and necessary).
+4. If statement 5 is true, then statements 6 and 2 are both false (sufficient).
+5. At least 2 of the previous statements are true.
+6. If statement 3 is true, then statements 5 and 4 are both false (sufficient).
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-False, 5-True, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=1 level=7 ::.
+1. This is a numbered list of 6 statements.
+2. At most 2 of the last 3 statements are false.
+3. If and only if statement 6 is false, then statement 4 is false (sufficient and necessary).
+4. If statement 5 is false, then statement 6 is true (sufficient).
+5. At least 3 of the first 4 statements are true.
+6. If statement 2 is true, then statements 4 and 5 are both false (sufficient).
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-True, 5-True, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=1 level=8 ::.
+1. This is a numbered list of 6 statements.
+2. If and only if statement 4 is false, then statement 5 is false (sufficient and necessary).
+3. If statement 2 is false, then statement 6 is true (sufficient).
+4. Only if statement 1 is true, then statement 6 is false (necessary).
+5. If and only if statement 6 is true, then statement 3 is false (sufficient and necessary).
+6. Only if statement 2 is true, then statement 4 is true (necessary).
+
+.:: Solutions ::.:
+1-True, 2-False, 3-False, 4-True, 5-False, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=1 level=8 ::.
+1. This is a numbered list of 6 statements.
+2. If and only if statement 3 is true, then statement 4 is false (sufficient and necessary).
+3. Only if statement 2 is true, then statement 6 is true (necessary).
+4. Only if statement 3 is true, then statement 6 is false (necessary).
+5. If and only if statement 1 is true, then statements 6 and 2 are both true (sufficient and necessary).
+6. If and only if statement 3 is false, then statement 5 is false (sufficient and necessary).
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-True, 5-False, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=2 level=1 ::.
+1. This is a numbered list of 6 statements.
+2. Exactly 2 of the statements 3, 5 and 1 are true.
+3. Exactly 3 of the even statements are false.
+4. Exactly 3 of the odd statements are false.
+5. Exactly 1 of the previous 3 statements is true.
+6. Exactly 3 of the statements 5, 3 and 1 are false.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-False, 5-True, 6-False
+1-True, 2-True, 3-False, 4-False, 5-True, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=2 level=2 ::.
+1. This is a numbered list of 6 statements.
+2. Exactly 1 of the next even statements is true.
+3. Exactly 1 of the previous 2 statements is false.
+4. Exactly 2 of the previous statements are true.
+5. Either statement 4 or statement 3 is false, but not both.
+6. Either statement 5 or statement 4 is false, or both.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-True, 5-False, 6-True
+1-True, 2-True, 3-False, 4-True, 5-True, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=2 level=3 ::.
+1. This is a numbered list of 6 statements.
+2. Either statement 3 or statement 4 is false, or both.
+3. Either statement 1 or statement 2 is true, but not both.
+4. Exactly 1 of the next 2 statements is true.
+5. Exactly 1 of the statements 3, 6 and 1 is true.
+6. At most 1 of the previous even statements is false.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-True, 5-False, 6-True
+1-True, 2-True, 3-False, 4-True, 5-False, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=2 level=3 ::.
+1. This is a numbered list of 6 statements.
+2. Statements 4 and 6 are either both true or both false.
+3. Either statement 1 or statement 6 is false, or both.
+4. Exactly 2 of the odd statements are true.
+5. Either statement 3 or statement 1 is true, but not both.
+6. Exactly 3 of the previous 4 statements are true.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-True, 5-False, 6-False
+1-True, 2-True, 3-False, 4-True, 5-True, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=2 level=4 ::.
+1. This is a numbered list of 6 statements.
+2. Either statement 4 or statement 1 is false, or both.
+3. At most 1 of the even statements is false.
+4. If and only if statement 3 is true, then statement 2 is false (sufficient and necessary).
+5. Statements 6 and 3 are either both true or both false.
+6. Exactly 1 of the previous statements is false.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-False, 5-True, 6-True
+1-True, 2-False, 3-True, 4-True, 5-True, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=2 level=4 ::.
+1. This is a numbered list of 6 statements.
+2. Either statement 4 or statement 5 is false, but not both.
+3. If statement 6 is false, then statement 5 is false (sufficient).
+4. At least 2 of the odd statements are false.
+5. At least 2 of the first 3 statements are true.
+6. Statements 1 and 3 are either both true or both false.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-False, 5-True, 6-False
+1-True, 2-True, 3-True, 4-False, 5-True, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=2 level=5 ::.
+1. This is a numbered list of 6 statements.
+2. At most 1 of the odd statements is false.
+3. If statement 4 is true, then statement 6 is false (sufficient).
+4. At most 1 of the first 2 statements is false.
+5. If statement 2 is false, then statements 4 and 6 are both false (sufficient).
+6. Exactly 1 of the first 2 statements is false.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-False, 4-True, 5-False, 6-True
+1-True, 2-True, 3-True, 4-True, 5-True, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=2 level=5 ::.
+1. This is a numbered list of 6 statements.
+2. Exactly 1 of the next statements is true.
+3. If and only if statement 4 is true, then statement 5 is false (sufficient and necessary).
+4. If and only if statement 1 is false, then statement 3 is true (sufficient and necessary).
+5. Only if statement 6 is true, then statement 2 is true (necessary).
+6. Exactly 2 of the first 5 statements are true.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-False, 5-True, 6-False
+1-True, 2-False, 3-False, 4-True, 5-True, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=2 level=6 ::.
+1. This is a numbered list of 6 statements.
+2. If and only if statement 5 is false, then statement 3 is false (sufficient and necessary).
+3. At most 2 of the even statements are false.
+4. Either statement 1 or statement 5 is false, but not both.
+5. Statements 2 and 1 are either both true or both false.
+6. Only if statement 2 is true, then statement 4 is false (necessary).
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-False, 5-True, 6-True
+1-True, 2-False, 3-True, 4-True, 5-False, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=2 level=6 ::.
+1. This is a numbered list of 6 statements.
+2. If and only if statement 3 is false, then statement 6 is false (sufficient and necessary).
+3. If statement 2 is false, then statement 5 is true (sufficient).
+4. Statements 1 and 5 are either both true or both false.
+5. Only if statement 1 is false, then statement 3 is false (necessary).
+6. At most 1 of the first 4 statements is true.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-False, 4-False, 5-False, 6-True
+1-True, 2-False, 3-True, 4-True, 5-True, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=2 level=7 ::.
+1. This is a numbered list of 6 statements.
+2. If and only if statement 1 is false, then statement 6 is false (sufficient and necessary).
+3. If statement 5 is false, then statement 2 is true (sufficient).
+4. At most 1 of the previous statements is true.
+5. At most 1 of the previous 4 statements is true.
+6. If statement 3 is false, then statement 4 is false (sufficient).
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-False, 5-False, 6-True
+1-True, 2-False, 3-False, 4-True, 5-False, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=2 level=7 ::.
+1. This is a numbered list of 6 statements.
+2. Only if statement 6 is true, then statement 5 is true (necessary).
+3. If and only if statement 1 is false, then statement 6 is false (sufficient and necessary).
+4. If statement 3 is false, then statement 2 is false (sufficient).
+5. If and only if statement 1 is true, then statements 6 and 2 are both false (sufficient and necessary).
+6. At most 1 of the previous 5 statements is true.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-False, 5-False, 6-False
+1-True, 2-False, 3-False, 4-True, 5-True, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=2 level=8 ::.
+1. This is a numbered list of 6 statements.
+2. Only if statement 3 is false, then statement 6 is true (necessary).
+3. If statement 2 is true, then statements 4 and 6 are both false (sufficient).
+4. If statement 1 is false, then statements 3 and 2 are both true (sufficient).
+5. Only if statement 2 is false, then statements 6 and 4 are both true (necessary).
+6. If statement 1 is false, then statement 5 is false (sufficient).
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-True, 5-False, 6-True
+1-True, 2-False, 3-True, 4-True, 5-True, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=2 level=8 ::.
+1. This is a numbered list of 6 statements.
+2. If statement 5 is false, then statement 6 is false (sufficient).
+3. If and only if statement 4 is true, then statement 6 is false (sufficient and necessary).
+4. If statement 2 is true, then statement 5 is true (sufficient).
+5. If and only if statement 1 is true, then statements 6 and 3 are both true (sufficient and necessary).
+6. If statement 2 is true, then statement 3 is true (sufficient).
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-False, 5-False, 6-False
+1-True, 2-False, 3-False, 4-True, 5-False, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=3 level=1 ::.
+1. This is a numbered list of 6 statements.
+2. Exactly 2 of the statements 6, 3 and 4 are false.
+3. Exactly 2 of the statements 2, 4 and 5 are false.
+4. Exactly 2 of the first 3 statements are true.
+5. Exactly 3 of the statements 3, 4 and 1 are false.
+6. Exactly 1 of the statements 1, 5 and 2 is true.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-False, 5-False, 6-False
+1-True, 2-True, 3-False, 4-True, 5-False, 6-False
+1-True, 2-False, 3-True, 4-True, 5-False, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=3 level=2 ::.
+1. This is a numbered list of 6 statements.
+2. Exactly 1 of the odd statements is true.
+3. Statements 5 and 2 are either both true or both false.
+4. Either statement 5 or statement 2 is false, but not both.
+5. Either statement 6 or statement 1 is true, but not both.
+6. Either statement 3 or statement 2 is true, but not both.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-False, 5-False, 6-True
+1-True, 2-True, 3-False, 4-True, 5-False, 6-True
+1-True, 2-False, 3-False, 4-True, 5-True, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=3 level=3 ::.
+1. This is a numbered list of 6 statements.
+2. At least 1 of the next odd statements is false.
+3. Exactly 1 of the previous statements is false.
+4. Statements 5 and 6 are either both true or both false.
+5. Statements 6 and 4 are either both true or both false.
+6. Either statement 4 or statement 1 is true, or both.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-False, 5-False, 6-True
+1-True, 2-True, 3-False, 4-True, 5-True, 6-True
+1-True, 2-False, 3-True, 4-True, 5-True, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=3 level=3 ::.
+1. This is a numbered list of 6 statements.
+2. Either statement 6 or statement 5 is false, but not both.
+3. Either statement 2 or statement 4 is true, but not both.
+4. At least 1 of the previous statements is false.
+5. Statements 3 and 2 are either both true or both false.
+6. Either statement 1 or statement 3 is false, but not both.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-False, 5-True, 6-False
+1-True, 2-False, 3-True, 4-True, 5-False, 6-False
+1-True, 2-True, 3-False, 4-True, 5-False, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=3 level=4 ::.
+1. This is a numbered list of 6 statements.
+2. Either statement 3 or statement 4 is true, but not both.
+3. Exactly 2 of the statements 2, 1 and 6 are false.
+4. Either statement 2 or statement 5 is true, or both.
+5. Either statement 2 or statement 3 is true, but not both.
+6. At most 1 of the previous 3 statements is true.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-True, 5-True, 6-False
+1-True, 2-False, 3-False, 4-False, 5-False, 6-True
+1-True, 2-False, 3-True, 4-True, 5-True, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=3 level=4 ::.
+1. This is a numbered list of 6 statements.
+2. If and only if statement 6 is true, then statement 3 is false (sufficient and necessary).
+3. Only if statement 6 is true, then statement 5 is false (necessary).
+4. At least 1 of the last 2 statements is false.
+5. Either statement 1 or statement 4 is false, or both.
+6. Exactly 2 of the first 3 statements are true.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-False, 5-True, 6-True
+1-True, 2-False, 3-False, 4-True, 5-False, 6-False
+1-True, 2-False, 3-True, 4-True, 5-False, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=3 level=5 ::.
+1. This is a numbered list of 6 statements.
+2. Exactly 1 of the next 4 statements is false.
+3. Exactly 3 of the even statements are true.
+4. If statement 1 is true, then statement 5 is false (sufficient).
+5. If statement 1 is true, then statement 6 is false (sufficient).
+6. Either statement 3 or statement 4 is true, or both.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-False, 4-False, 5-True, 6-False
+1-True, 2-False, 3-False, 4-True, 5-False, 6-True
+1-True, 2-True, 3-True, 4-True, 5-False, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=3 level=5 ::.
+1. This is a numbered list of 6 statements.
+2. Exactly 3 of the next statements are true.
+3. If statement 5 is true, then statement 4 is false (sufficient).
+4. Exactly 1 of the odd statements is false.
+5. Exactly 1 of the previous 2 statements is false.
+6. If statement 5 is false, then statement 3 is true (sufficient).
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-False, 5-True, 6-True
+1-True, 2-True, 3-True, 4-True, 5-False, 6-True
+1-True, 2-True, 3-False, 4-True, 5-True, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=3 level=6 ::.
+1. This is a numbered list of 6 statements.
+2. Either statement 3 or statement 5 is true, but not both.
+3. Either statement 4 or statement 2 is false, but not both.
+4. If statement 6 is false, then statement 2 is true (sufficient).
+5. If and only if statement 1 is false, then statement 4 is false (sufficient and necessary).
+6. At most 2 of the first 4 statements are false.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-False, 4-False, 5-False, 6-False
+1-True, 2-False, 3-True, 4-True, 5-True, 6-True
+1-True, 2-True, 3-False, 4-True, 5-True, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=3 level=6 ::.
+1. This is a numbered list of 6 statements.
+2. Either statement 3 or statement 6 is false, or both.
+3. If and only if statement 4 is false, then statement 2 is false (sufficient and necessary).
+4. If and only if statement 5 is true, then statement 6 is true (sufficient and necessary).
+5. Only if statement 1 is false, then statement 3 is true (necessary).
+6. At least 3 of the first 5 statements are false.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-False, 5-False, 6-True
+1-True, 2-True, 3-False, 4-False, 5-True, 6-False
+1-True, 2-True, 3-True, 4-True, 5-False, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=3 level=7 ::.
+1. This is a numbered list of 6 statements.
+2. If and only if statement 4 is true, then statement 3 is true (sufficient and necessary).
+3. If statement 4 is true, then statement 2 is true (sufficient).
+4. At least 1 of the next statements is false.
+5. If statement 6 is false, then statement 3 is false (sufficient).
+6. If and only if statement 1 is true, then statements 4 and 2 are both false (sufficient and necessary).
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-False, 5-True, 6-True
+1-True, 2-True, 3-True, 4-True, 5-False, 6-False
+1-True, 2-False, 3-False, 4-True, 5-True, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=3 level=7 ::.
+1. This is a numbered list of 6 statements.
+2. Only if statement 6 is false, then statement 5 is false (necessary).
+3. If and only if statement 1 is true, then statement 6 is false (sufficient and necessary).
+4. If and only if statement 1 is false, then statement 5 is true (sufficient and necessary).
+5. If statement 6 is true, then statement 4 is false (sufficient).
+6. At most 3 of the first 5 statements are true.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-False, 5-True, 6-False
+1-True, 2-True, 3-False, 4-False, 5-True, 6-True
+1-True, 2-False, 3-False, 4-True, 5-False, 6-True
+====================================================================================================
+.:: Puzzle statements=6 solutions=3 level=8 ::.
+1. This is a numbered list of 6 statements.
+2. If and only if statement 5 is false, then statement 4 is false (sufficient and necessary).
+3. If statement 5 is false, then statements 4 and 2 are both false (sufficient).
+4. Only if statement 5 is true, then statement 2 is true (necessary).
+5. If and only if statement 1 is true, then statement 3 is true (sufficient and necessary).
+6. If statement 1 is true, then statement 3 is false (sufficient).
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-False, 5-False, 6-True
+1-True, 2-False, 3-False, 4-True, 5-False, 6-True
+1-True, 2-True, 3-True, 4-True, 5-True, 6-False
+====================================================================================================
+.:: Puzzle statements=6 solutions=3 level=8 ::.
+1. This is a numbered list of 6 statements.
+2. If statement 1 is true, then statements 6 and 4 are both false (sufficient).
+3. If statement 4 is true, then statement 6 is false (sufficient).
+4. If and only if statement 5 is false, then statement 3 is true (sufficient and necessary).
+5. If and only if statement 6 is true, then statement 2 is false (sufficient and necessary).
+6. If and only if statement 4 is true, then statement 3 is false (sufficient and necessary).
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-False, 5-True, 6-True
+1-True, 2-False, 3-True, 4-True, 5-False, 6-False
+1-True, 2-False, 3-False, 4-True, 5-True, 6-True
+====================================================================================================

@@ -1,0 +1,721 @@
+====================================================================================================
+.:: Puzzle statements=10 solutions=1 level=1 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Exactly 3 of the next odd statements are true.
+ 3. Exactly 3 of the next statements are true.
+ 4. Exactly 4 of the next 5 statements are true.
+ 5. Exactly 2 of the statements 4, 3 and 6 are false.
+ 6. Exactly 1 of the last 4 statements is true.
+ 7. Exactly 2 of the previous even statements are false.
+ 8. Exactly 5 of the first 6 statements are true.
+ 9. Exactly 5 of the even statements are false.
+10. Exactly 1 of the first 5 statements is false.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-False, 5-True, 6-False, 7-True, 8-False, 9-False, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=1 level=2 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Statements 9 and 10 are either both true or both false.
+ 3. Either statement 10 or statement 1 is true, but not both.
+ 4. Either statement 2 or statement 8 is false, but not both.
+ 5. Statements 3 and 10 are either both true or both false.
+ 6. Either statement 1 or statement 9 is true, or both.
+ 7. Either statement 3 or statement 2 is false, but not both.
+ 8. Exactly 2 of the previous statements are true.
+ 9. Either statement 2 or statement 5 is false, but not both.
+10. Either statement 2 or statement 1 is true, or both.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-True, 5-False, 6-True, 7-True, 8-False, 9-True, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=1 level=2 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Either statement 9 or statement 6 is true, or both.
+ 3. Statements 2 and 8 are either both true or both false.
+ 4. Exactly 1 of the statements 9, 2 and 5 is false.
+ 5. Either statement 8 or statement 10 is true, but not both.
+ 6. Exactly 2 of the first 3 statements are false.
+ 7. Either statement 8 or statement 4 is false, or both.
+ 8. Exactly 1 of the previous even statements is false.
+ 9. Either statement 6 or statement 4 is false, or both.
+10. Exactly 2 of the previous odd statements are false.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-True, 5-False, 6-False, 7-False, 8-True, 9-True, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=1 level=3 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. At least 2 of the next 6 statements are false.
+ 3. At most 1 of the next odd statements is false.
+ 4. At least 5 of the next statements are false.
+ 5. At most 4 of the even statements are true.
+ 6. Either statement 4 or statement 2 is true, or both.
+ 7. Exactly 2 of the previous odd statements are true.
+ 8. At least 1 of the previous odd statements is true.
+ 9. At most 2 of the previous even statements are false.
+10. At most 3 of the previous even statements are false.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-False, 5-True, 6-True, 7-False, 8-True, 9-True, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=1 level=3 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Exactly 2 of the next 3 statements are false.
+ 3. At least 4 of the next statements are false.
+ 4. Statements 8 and 6 are either both true or both false.
+ 5. Exactly 1 of the next 2 statements is true.
+ 6. Either statement 1 or statement 2 is true, or both.
+ 7. At most 2 of the even statements are true.
+ 8. Either statement 9 or statement 2 is false, or both.
+ 9. Statements 2 and 8 are either both true or both false.
+10. At least 1 of the first 7 statements is false.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-False, 4-True, 5-True, 6-True, 7-False, 8-True, 9-False, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=1 level=4 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Either statement 8 or statement 5 is false, but not both.
+ 3. Either statement 8 or statement 4 is true, or both.
+ 4. Either statement 10 or statement 6 is false, or both.
+ 5. Exactly 3 of the statements 4, 3 and 1 are true.
+ 6. At least 1 of the previous 4 statements is true.
+ 7. At most 3 of the previous 5 statements are true.
+ 8. Either statement 5 or statement 2 is true, but not both.
+ 9. At most 1 of the previous 6 statements is true.
+10. At least 3 of the previous 5 statements are false.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-True, 5-True, 6-True, 7-False, 8-True, 9-False, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=1 level=4 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Either statement 8 or statement 1 is true, or both.
+ 3. Exactly 3 of the even statements are false.
+ 4. Statements 1 and 2 are either both true or both false.
+ 5. If and only if statement 2 is true, then statement 6 is true (sufficient and necessary).
+ 6. At most 4 of the odd statements are true.
+ 7. If and only if statement 4 is true, then statement 6 is false (sufficient and necessary).
+ 8. At most 2 of the previous 5 statements are true.
+ 9. If statement 4 is true, then statement 3 is true (sufficient).
+10. Either statement 9 or statement 5 is false, or both.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-True, 5-True, 6-True, 7-False, 8-False, 9-False, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=1 level=5 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. At least 2 of the next 3 statements are false.
+ 3. If statement 7 is true, then statement 10 is false (sufficient).
+ 4. At least 4 of the last 5 statements are true.
+ 5. If statement 8 is true, then statements 9 and 6 are both false (sufficient).
+ 6. At most 2 of the last 4 statements are false.
+ 7. Statements 2 and 3 are either both true or both false.
+ 8. If and only if statement 1 is true, then statements 10 and 4 are both false (sufficient and necessary).
+ 9. If statement 3 is true, then statements 7 and 5 are both true (sufficient).
+10. Either statement 7 or statement 9 is false, or both.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-False, 5-True, 6-False, 7-False, 8-False, 9-False, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=1 level=5 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Either statement 6 or statement 5 is true, but not both.
+ 3. If statement 7 is true, then statement 4 is true (sufficient).
+ 4. Exactly 3 of the statements 7, 9 and 2 are true.
+ 5. Only if statement 2 is true, then statements 8 and 9 are both true (necessary).
+ 6. Exactly 2 of the previous 3 statements are true.
+ 7. Statements 5 and 10 are either both true or both false.
+ 8. Either statement 1 or statement 9 is false, or both.
+ 9. Either statement 6 or statement 5 is true, or both.
+10. Either statement 9 or statement 8 is true, but not both.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-True, 5-True, 6-False, 7-True, 8-False, 9-True, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=1 level=6 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. At least 2 of the next even statements are false.
+ 3. Either statement 1 or statement 2 is false, but not both.
+ 4. Either statement 3 or statement 6 is false, but not both.
+ 5. At most 1 of the previous odd statements is true.
+ 6. If and only if statement 1 is true, then statement 3 is true (sufficient and necessary).
+ 7. If statement 8 is false, then statement 4 is false (sufficient).
+ 8. At most 2 of the odd statements are true.
+ 9. Only if statement 8 is true, then statement 5 is true (necessary).
+10. At most 2 of the previous even statements are false.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-False, 5-True, 6-False, 7-True, 8-False, 9-False, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=1 level=6 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. At most 2 of the last 5 statements are false.
+ 3. At least 2 of the last 7 statements are true.
+ 4. At most 3 of the last 6 statements are false.
+ 5. Either statement 1 or statement 10 is false, but not both.
+ 6. If and only if statement 7 is true, then statement 2 is true (sufficient and necessary).
+ 7. At least 1 of the previous 6 statements is false.
+ 8. Statements 7 and 10 are either both true or both false.
+ 9. Statements 1 and 2 are either both true or both false.
+10. If and only if statement 4 is true, then statements 9 and 2 are both false (sufficient and necessary).
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-False, 5-True, 6-False, 7-True, 8-False, 9-False, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=1 level=7 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. If and only if statement 8 is true, then statement 10 is false (sufficient and necessary).
+ 3. At most 1 of the even statements is true.
+ 4. If statement 9 is true, then statements 3 and 5 are both true (sufficient).
+ 5. If statement 1 is true, then statements 3 and 6 are both true (sufficient).
+ 6. If statement 9 is true, then statements 7 and 2 are both true (sufficient).
+ 7. If and only if statement 6 is false, then statement 5 is false (sufficient and necessary).
+ 8. At most 6 of the first 7 statements are true.
+ 9. If and only if statement 8 is true, then statement 10 is false (sufficient and necessary).
+10. Only if statement 4 is false, then statement 7 is true (necessary).
+
+.:: Solutions ::.:
+1-True, 2-False, 3-False, 4-True, 5-False, 6-True, 7-False, 8-True, 9-False, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=1 level=7 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. At most 5 of the last 6 statements are false.
+ 3. At most 1 of the even statements is false.
+ 4. At most 2 of the next odd statements are false.
+ 5. At least 2 of the last 3 statements are false.
+ 6. Only if statement 1 is false, then statement 3 is false (necessary).
+ 7. If and only if statement 6 is false, then statements 3 and 5 are both true (sufficient and necessary).
+ 8. At least 2 of the odd statements are true.
+ 9. At most 2 of the first 6 statements are true.
+10. If statement 9 is false, then statements 5 and 6 are both true (sufficient).
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-True, 5-True, 6-False, 7-False, 8-True, 9-False, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=1 level=8 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. If and only if statement 1 is true, then statement 10 is false (sufficient and necessary).
+ 3. If statement 6 is false, then statement 8 is true (sufficient).
+ 4. If and only if statement 8 is false, then statements 10 and 3 are both true (sufficient and necessary).
+ 5. Only if statement 6 is true, then statement 2 is false (necessary).
+ 6. If statement 4 is false, then statements 7 and 9 are both true (sufficient).
+ 7. If statement 3 is false, then statements 8 and 2 are both true (sufficient).
+ 8. If and only if statement 3 is true, then statement 2 is false (sufficient and necessary).
+ 9. If and only if statement 3 is true, then statements 5 and 6 are both false (sufficient and necessary).
+10. Only if statement 8 is true, then statement 2 is true (necessary).
+
+.:: Solutions ::.:
+1-True, 2-False, 3-False, 4-False, 5-False, 6-False, 7-False, 8-False, 9-False, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=1 level=8 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Only if statement 5 is true, then statement 4 is true (necessary).
+ 3. If statement 4 is false, then statement 9 is false (sufficient).
+ 4. If statement 1 is false, then statement 9 is false (sufficient).
+ 5. If and only if statement 6 is true, then statement 7 is false (sufficient and necessary).
+ 6. If and only if statement 9 is false, then statement 7 is false (sufficient and necessary).
+ 7. If and only if statement 4 is true, then statement 8 is false (sufficient and necessary).
+ 8. Only if statement 5 is true, then statement 4 is true (necessary).
+ 9. If statement 2 is true, then statement 5 is true (sufficient).
+10. If and only if statement 5 is false, then statement 4 is false (sufficient and necessary).
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-True, 5-False, 6-True, 7-True, 8-False, 9-True, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=2 level=1 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Exactly 3 of the statements 5, 4 and 6 are false.
+ 3. Exactly 6 of the next 7 statements are false.
+ 4. Exactly 3 of the next 5 statements are false.
+ 5. Exactly 2 of the statements 7, 4 and 6 are false.
+ 6. Exactly 1 of the previous 5 statements is true.
+ 7. Exactly 3 of the statements 2, 1 and 10 are false.
+ 8. Exactly 2 of the previous 5 statements are true.
+ 9. Exactly 3 of the first 7 statements are true.
+10. Exactly 4 of the odd statements are true.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-False, 5-False, 6-False, 7-False, 8-False, 9-False, 10-False
+1-True, 2-True, 3-True, 4-False, 5-False, 6-False, 7-False, 8-False, 9-True, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=2 level=2 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Either statement 5 or statement 10 is true, or both.
+ 3. Either statement 8 or statement 10 is true, but not both.
+ 4. Either statement 9 or statement 5 is true, but not both.
+ 5. Statements 7 and 2 are either both true or both false.
+ 6. Either statement 2 or statement 10 is false, or both.
+ 7. Either statement 8 or statement 1 is false, but not both.
+ 8. Either statement 5 or statement 9 is false, or both.
+ 9. Either statement 6 or statement 10 is false, or both.
+10. Either statement 5 or statement 4 is false, or both.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-False, 5-True, 6-False, 7-True, 8-False, 9-True, 10-True
+1-True, 2-True, 3-False, 4-True, 5-False, 6-False, 7-False, 8-True, 9-True, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=2 level=2 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Statements 3 and 1 are either both true or both false.
+ 3. Statements 1 and 2 are either both true or both false.
+ 4. Either statement 2 or statement 1 is false, or both.
+ 5. Exactly 1 of the next 4 statements is false.
+ 6. Statements 2 and 4 are either both true or both false.
+ 7. Statements 3 and 8 are either both true or both false.
+ 8. Statements 1 and 6 are either both true or both false.
+ 9. Exactly 3 of the previous 7 statements are false.
+10. Exactly 5 of the previous 9 statements are false.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-False, 5-False, 6-False, 7-False, 8-False, 9-False, 10-False
+1-True, 2-False, 3-False, 4-True, 5-False, 6-False, 7-True, 8-False, 9-False, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=2 level=3 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Statements 8 and 4 are either both true or both false.
+ 3. Statements 1 and 5 are either both true or both false.
+ 4. Exactly 1 of the previous 3 statements is true.
+ 5. Either statement 1 or statement 6 is false, or both.
+ 6. Either statement 5 or statement 9 is true, but not both.
+ 7. At most 4 of the first 5 statements are false.
+ 8. At most 2 of the first 7 statements are false.
+ 9. At least 1 of the first 8 statements is false.
+10. At most 1 of the previous 7 statements is true.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-False, 5-False, 6-True, 7-True, 8-False, 9-True, 10-False
+1-True, 2-False, 3-False, 4-True, 5-False, 6-True, 7-True, 8-False, 9-True, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=2 level=3 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. At least 1 of the next statements is false.
+ 3. At least 4 of the even statements are false.
+ 4. Either statement 8 or statement 7 is false, but not both.
+ 5. Statements 8 and 10 are either both true or both false.
+ 6. Either statement 3 or statement 9 is true, but not both.
+ 7. Exactly 2 of the first 4 statements are false.
+ 8. At most 6 of the first 7 statements are false.
+ 9. Either statement 7 or statement 8 is false, or both.
+10. At most 3 of the previous even statements are false.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-False, 5-True, 6-False, 7-True, 8-True, 9-False, 10-True
+1-True, 2-True, 3-False, 4-True, 5-True, 6-True, 7-False, 8-True, 9-True, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=2 level=4 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. If statement 6 is false, then statement 3 is false (sufficient).
+ 3. Statements 9 and 1 are either both true or both false.
+ 4. Only if statement 5 is false, then statement 8 is true (necessary).
+ 5. At most 1 of the next 2 statements is true.
+ 6. Statements 1 and 7 are either both true or both false.
+ 7. If statement 5 is true, then statement 6 is true (sufficient).
+ 8. Either statement 2 or statement 6 is true, or both.
+ 9. Either statement 1 or statement 10 is true, but not both.
+10. At least 1 of the previous 4 statements is true.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-False, 5-True, 6-False, 7-False, 8-True, 9-False, 10-True
+1-True, 2-True, 3-False, 4-True, 5-False, 6-True, 7-True, 8-True, 9-False, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=2 level=4 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Either statement 3 or statement 9 is true, or both.
+ 3. Exactly 5 of the next statements are true.
+ 4. At least 1 of the odd statements is false.
+ 5. Exactly 1 of the even statements is false.
+ 6. If and only if statement 7 is true, then statement 2 is true (sufficient and necessary).
+ 7. At most 2 of the previous 6 statements are false.
+ 8. Only if statement 1 is false, then statement 10 is true (necessary).
+ 9. Either statement 8 or statement 5 is true, but not both.
+10. Either statement 4 or statement 5 is true, or both.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-False, 4-True, 5-False, 6-True, 7-False, 8-False, 9-False, 10-True
+1-True, 2-True, 3-False, 4-True, 5-True, 6-True, 7-True, 8-False, 9-True, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=2 level=5 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Only if statement 4 is true, then statement 10 is true (necessary).
+ 3. Statements 5 and 9 are either both true or both false.
+ 4. If and only if statement 7 is false, then statements 3 and 10 are both false (sufficient and necessary).
+ 5. If statement 3 is false, then statement 2 is false (sufficient).
+ 6. Only if statement 9 is false, then statements 5 and 3 are both true (necessary).
+ 7. If and only if statement 10 is true, then statement 3 is true (sufficient and necessary).
+ 8. If and only if statement 1 is true, then statement 6 is true (sufficient and necessary).
+ 9. At least 2 of the previous 3 statements are false.
+10. At least 1 of the previous odd statements is true.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-True, 5-True, 6-False, 7-True, 8-False, 9-True, 10-True
+1-True, 2-False, 3-False, 4-False, 5-True, 6-True, 7-False, 8-True, 9-False, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=2 level=5 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Only if statement 3 is false, then statements 7 and 8 are both false (necessary).
+ 3. Statements 1 and 5 are either both true or both false.
+ 4. Either statement 8 or statement 7 is true, or both.
+ 5. If statement 3 is false, then statements 9 and 8 are both true (sufficient).
+ 6. Either statement 5 or statement 4 is true, but not both.
+ 7. Either statement 5 or statement 8 is false, or both.
+ 8. Only if statement 3 is false, then statement 10 is true (necessary).
+ 9. Statements 5 and 1 are either both true or both false.
+10. Exactly 6 of the first 7 statements are false.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-True, 5-False, 6-True, 7-True, 8-True, 9-False, 10-False
+1-True, 2-True, 3-True, 4-True, 5-True, 6-False, 7-False, 8-True, 9-True, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=2 level=6 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. If statement 4 is true, then statements 5 and 7 are both true (sufficient).
+ 3. If statement 2 is false, then statements 6 and 4 are both false (sufficient).
+ 4. If statement 1 is true, then statement 3 is false (sufficient).
+ 5. Only if statement 7 is false, then statement 8 is false (necessary).
+ 6. Statements 8 and 5 are either both true or both false.
+ 7. At most 4 of the previous 5 statements are true.
+ 8. Statements 4 and 10 are either both true or both false.
+ 9. At most 4 of the first 5 statements are true.
+10. Either statement 1 or statement 6 is true, but not both.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-False, 4-True, 5-False, 6-True, 7-True, 8-False, 9-True, 10-False
+1-True, 2-True, 3-True, 4-False, 5-True, 6-True, 7-True, 8-True, 9-True, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=2 level=6 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Either statement 7 or statement 5 is false, but not both.
+ 3. At least 4 of the next 6 statements are true.
+ 4. At most 1 of the next even statements is false.
+ 5. Statements 8 and 3 are either both true or both false.
+ 6. If statement 8 is true, then statement 2 is false (sufficient).
+ 7. Only if statement 1 is true, then statement 6 is false (necessary).
+ 8. At least 1 of the last 2 statements is false.
+ 9. Either statement 2 or statement 4 is false, but not both.
+10. Statements 7 and 4 are either both true or both false.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-True, 5-False, 6-False, 7-True, 8-True, 9-False, 10-True
+1-True, 2-True, 3-False, 4-False, 5-False, 6-False, 7-True, 8-True, 9-True, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=2 level=7 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. If and only if statement 6 is true, then statement 4 is true (sufficient and necessary).
+ 3. At most 1 of the next 3 statements is false.
+ 4. If and only if statement 10 is false, then statement 2 is true (sufficient and necessary).
+ 5. Only if statement 1 is true, then statements 7 and 3 are both true (necessary).
+ 6. If and only if statement 2 is false, then statement 8 is false (sufficient and necessary).
+ 7. If statement 5 is false, then statements 9 and 2 are both true (sufficient).
+ 8. Only if statement 1 is false, then statements 9 and 7 are both true (necessary).
+ 9. At most 3 of the previous odd statements are true.
+10. At least 4 of the previous statements are true.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-False, 5-True, 6-False, 7-True, 8-False, 9-True, 10-True
+1-True, 2-False, 3-True, 4-True, 5-True, 6-False, 7-True, 8-True, 9-False, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=2 level=7 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. If statement 3 is true, then statement 10 is false (sufficient).
+ 3. Only if statement 7 is false, then statements 4 and 10 are both true (necessary).
+ 4. If and only if statement 5 is true, then statement 2 is false (sufficient and necessary).
+ 5. If and only if statement 1 is true, then statements 10 and 4 are both false (sufficient and necessary).
+ 6. Only if statement 9 is true, then statement 10 is false (necessary).
+ 7. At least 1 of the previous 5 statements is true.
+ 8. At least 5 of the previous 6 statements are true.
+ 9. If and only if statement 5 is true, then statements 8 and 2 are both true (sufficient and necessary).
+10. Only if statement 3 is false, then statement 8 is false (necessary).
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-False, 5-True, 6-False, 7-True, 8-False, 9-False, 10-False
+1-True, 2-True, 3-False, 4-True, 5-False, 6-True, 7-True, 8-False, 9-True, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=2 level=8 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Only if statement 5 is false, then statements 6 and 4 are both false (necessary).
+ 3. If and only if statement 10 is false, then statement 5 is true (sufficient and necessary).
+ 4. If statement 6 is false, then statements 9 and 8 are both true (sufficient).
+ 5. If statement 3 is true, then statement 4 is false (sufficient).
+ 6. If and only if statement 7 is false, then statements 3 and 9 are both false (sufficient and necessary).
+ 7. If and only if statement 1 is false, then statement 6 is false (sufficient and necessary).
+ 8. If and only if statement 4 is false, then statement 6 is true (sufficient and necessary).
+ 9. If statement 2 is true, then statement 3 is false (sufficient).
+10. Only if statement 4 is false, then statement 3 is false (necessary).
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-True, 5-False, 6-True, 7-True, 8-False, 9-False, 10-True
+1-True, 2-False, 3-False, 4-False, 5-True, 6-False, 7-False, 8-False, 9-True, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=2 level=8 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Only if statement 1 is false, then statements 3 and 7 are both false (necessary).
+ 3. If and only if statement 1 is true, then statement 10 is false (sufficient and necessary).
+ 4. If and only if statement 9 is true, then statement 6 is false (sufficient and necessary).
+ 5. Only if statement 3 is true, then statements 6 and 2 are both true (necessary).
+ 6. If and only if statement 10 is true, then statement 4 is true (sufficient and necessary).
+ 7. Only if statement 10 is true, then statement 4 is true (necessary).
+ 8. If and only if statement 7 is false, then statement 3 is false (sufficient and necessary).
+ 9. If and only if statement 3 is false, then statement 2 is false (sufficient and necessary).
+10. Only if statement 8 is true, then statement 2 is false (necessary).
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-True, 5-False, 6-True, 7-True, 8-False, 9-False, 10-True
+1-True, 2-True, 3-False, 4-False, 5-True, 6-False, 7-True, 8-False, 9-False, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=3 level=1 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Exactly 1 of the next even statements is true.
+ 3. Exactly 6 of the next statements are true.
+ 4. Exactly 1 of the statements 3, 1 and 7 is true.
+ 5. Exactly 1 of the last 4 statements is true.
+ 6. Exactly 1 of the next 2 statements is false.
+ 7. Exactly 5 of the even statements are false.
+ 8. Exactly 2 of the first 3 statements are false.
+ 9. Exactly 4 of the previous statements are true.
+10. Exactly 3 of the previous 6 statements are true.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-True, 5-False, 6-False, 7-False, 8-False, 9-False, 10-False
+1-True, 2-False, 3-False, 4-True, 5-True, 6-True, 7-False, 8-True, 9-False, 10-False
+1-True, 2-False, 3-False, 4-True, 5-False, 6-True, 7-False, 8-True, 9-True, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=3 level=2 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Either statement 8 or statement 4 is false, or both.
+ 3. Exactly 1 of the next odd statements is true.
+ 4. Either statement 7 or statement 6 is true, or both.
+ 5. Either statement 8 or statement 6 is true, but not both.
+ 6. Either statement 7 or statement 4 is false, or both.
+ 7. Exactly 2 of the statements 1, 9 and 3 are true.
+ 8. Statements 10 and 4 are either both true or both false.
+ 9. Statements 3 and 6 are either both true or both false.
+10. Either statement 9 or statement 2 is false, but not both.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-True, 5-False, 6-False, 7-True, 8-False, 9-True, 10-False
+1-True, 2-False, 3-True, 4-True, 5-False, 6-True, 7-False, 8-True, 9-True, 10-True
+1-True, 2-False, 3-False, 4-True, 5-True, 6-False, 7-True, 8-True, 9-True, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=3 level=2 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Statements 8 and 7 are either both true or both false.
+ 3. Either statement 4 or statement 7 is true, but not both.
+ 4. Either statement 2 or statement 8 is false, but not both.
+ 5. Either statement 8 or statement 3 is false, or both.
+ 6. Either statement 3 or statement 4 is false, but not both.
+ 7. Either statement 10 or statement 1 is true, but not both.
+ 8. Either statement 10 or statement 2 is false, but not both.
+ 9. Statements 1 and 4 are either both true or both false.
+10. Exactly 3 of the previous 4 statements are false.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-False, 5-True, 6-True, 7-True, 8-False, 9-False, 10-False
+1-True, 2-True, 3-True, 4-True, 5-True, 6-False, 7-False, 8-False, 9-True, 10-True
+1-True, 2-True, 3-True, 4-False, 5-False, 6-True, 7-True, 8-True, 9-False, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=3 level=3 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Either statement 7 or statement 1 is true, or both.
+ 3. At least 2 of the last 3 statements are true.
+ 4. Statements 9 and 8 are either both true or both false.
+ 5. Either statement 3 or statement 9 is true, or both.
+ 6. Exactly 2 of the statements 2, 7 and 3 are true.
+ 7. Either statement 6 or statement 2 is false, but not both.
+ 8. Either statement 1 or statement 6 is true, but not both.
+ 9. Either statement 6 or statement 4 is false, but not both.
+10. At least 4 of the previous odd statements are true.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-False, 5-True, 6-True, 7-False, 8-False, 9-True, 10-True
+1-True, 2-True, 3-True, 4-False, 5-True, 6-False, 7-True, 8-True, 9-False, 10-True
+1-True, 2-True, 3-True, 4-True, 5-True, 6-False, 7-True, 8-True, 9-True, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=3 level=3 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Either statement 7 or statement 6 is true, or both.
+ 3. Exactly 2 of the next 5 statements are false.
+ 4. Either statement 1 or statement 8 is true, or both.
+ 5. Either statement 7 or statement 9 is true, but not both.
+ 6. Either statement 9 or statement 2 is false, but not both.
+ 7. At most 1 of the next 3 statements is false.
+ 8. At least 3 of the previous 4 statements are true.
+ 9. Statements 1 and 3 are either both true or both false.
+10. Exactly 7 of the first 9 statements are true.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-False, 4-True, 5-False, 6-False, 7-False, 8-False, 9-False, 10-False
+1-True, 2-True, 3-False, 4-True, 5-False, 6-True, 7-False, 8-False, 9-False, 10-False
+1-True, 2-True, 3-False, 4-True, 5-True, 6-True, 7-True, 8-True, 9-False, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=3 level=4 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Either statement 5 or statement 7 is true, or both.
+ 3. If and only if statement 10 is false, then statement 7 is true (sufficient and necessary).
+ 4. At least 1 of the last 3 statements is true.
+ 5. Statements 1 and 2 are either both true or both false.
+ 6. Exactly 1 of the previous 3 statements is true.
+ 7. At most 1 of the first 6 statements is false.
+ 8. At least 4 of the first 5 statements are false.
+ 9. Only if statement 4 is true, then statement 8 is true (necessary).
+10. Exactly 4 of the previous odd statements are true.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-True, 5-True, 6-False, 7-True, 8-False, 9-True, 10-False
+1-True, 2-False, 3-False, 4-True, 5-False, 6-True, 7-False, 8-False, 9-True, 10-False
+1-True, 2-True, 3-False, 4-True, 5-True, 6-False, 7-False, 8-False, 9-True, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=3 level=4 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. If and only if statement 1 is false, then statement 10 is true (sufficient and necessary).
+ 3. At most 4 of the next 5 statements are true.
+ 4. At most 5 of the next statements are false.
+ 5. Either statement 7 or statement 2 is false, but not both.
+ 6. At least 1 of the first 5 statements is false.
+ 7. Only if statement 2 is false, then statement 6 is false (necessary).
+ 8. At most 1 of the previous 2 statements is true.
+ 9. Exactly 4 of the previous 7 statements are false.
+10. Either statement 8 or statement 5 is false, but not both.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-True, 5-False, 6-True, 7-True, 8-False, 9-False, 10-False
+1-True, 2-False, 3-True, 4-True, 5-True, 6-True, 7-True, 8-False, 9-False, 10-True
+1-True, 2-True, 3-True, 4-True, 5-True, 6-False, 7-False, 8-True, 9-False, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=3 level=5 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. If and only if statement 7 is false, then statements 10 and 9 are both false (sufficient and necessary).
+ 3. At most 3 of the last 5 statements are false.
+ 4. Either statement 2 or statement 8 is false, but not both.
+ 5. Only if statement 10 is false, then statements 4 and 8 are both false (necessary).
+ 6. Exactly 2 of the odd statements are true.
+ 7. Exactly 3 of the even statements are false.
+ 8. Exactly 4 of the odd statements are true.
+ 9. If statement 7 is false, then statement 5 is true (sufficient).
+10. Either statement 1 or statement 5 is false, but not both.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-False, 4-False, 5-False, 6-False, 7-False, 8-False, 9-False, 10-True
+1-True, 2-False, 3-False, 4-False, 5-True, 6-False, 7-False, 8-False, 9-True, 10-False
+1-True, 2-True, 3-True, 4-True, 5-True, 6-False, 7-True, 8-False, 9-True, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=3 level=5 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. If statement 6 is true, then statement 3 is false (sufficient).
+ 3. Either statement 2 or statement 4 is true, but not both.
+ 4. Statements 6 and 1 are either both true or both false.
+ 5. If statement 2 is false, then statements 6 and 8 are both false (sufficient).
+ 6. If and only if statement 5 is false, then statement 8 is true (sufficient and necessary).
+ 7. If statement 10 is true, then statement 9 is true (sufficient).
+ 8. If and only if statement 7 is false, then statement 2 is false (sufficient and necessary).
+ 9. If statement 4 is true, then statement 10 is false (sufficient).
+10. Statements 6 and 1 are either both true or both false.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-True, 5-True, 6-True, 7-False, 8-False, 9-False, 10-True
+1-True, 2-False, 3-True, 4-True, 5-False, 6-True, 7-False, 8-True, 9-False, 10-True
+1-True, 2-True, 3-True, 4-False, 5-True, 6-False, 7-True, 8-True, 9-True, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=3 level=6 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. If and only if statement 9 is false, then statements 4 and 3 are both true (sufficient and necessary).
+ 3. If statement 9 is true, then statement 5 is true (sufficient).
+ 4. At most 1 of the last 3 statements is true.
+ 5. If statement 8 is false, then statement 3 is true (sufficient).
+ 6. Statements 4 and 3 are either both true or both false.
+ 7. Only if statement 9 is false, then statements 10 and 3 are both false (necessary).
+ 8. Either statement 9 or statement 2 is true, but not both.
+ 9. If statement 1 is false, then statements 7 and 2 are both false (sufficient).
+10. At least 4 of the first 7 statements are true.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-False, 4-True, 5-False, 6-False, 7-False, 8-False, 9-True, 10-False
+1-True, 2-True, 3-False, 4-False, 5-False, 6-True, 7-True, 8-False, 9-True, 10-True
+1-True, 2-True, 3-True, 4-False, 5-True, 6-False, 7-True, 8-False, 9-True, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=3 level=6 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. If and only if statement 6 is true, then statements 9 and 10 are both false (sufficient and necessary).
+ 3. Either statement 4 or statement 5 is false, but not both.
+ 4. Either statement 8 or statement 1 is false, or both.
+ 5. Either statement 8 or statement 6 is false, but not both.
+ 6. At most 1 of the previous even statements is true.
+ 7. Either statement 4 or statement 5 is true, or both.
+ 8. At least 4 of the previous 7 statements are false.
+ 9. If statement 4 is true, then statements 5 and 7 are both false (sufficient).
+10. At most 4 of the previous statements are false.
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-True, 5-False, 6-False, 7-True, 8-False, 9-False, 10-True
+1-True, 2-False, 3-False, 4-True, 5-True, 6-True, 7-True, 8-False, 9-False, 10-True
+1-True, 2-False, 3-False, 4-False, 5-False, 6-True, 7-False, 8-True, 9-True, 10-False
+====================================================================================================
+.:: Puzzle statements=10 solutions=3 level=7 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. At least 3 of the last 4 statements are true.
+ 3. Only if statement 8 is true, then statement 5 is false (necessary).
+ 4. If and only if statement 1 is true, then statement 10 is false (sufficient and necessary).
+ 5. If statement 4 is false, then statements 7 and 10 are both true (sufficient).
+ 6. If statement 1 is true, then statements 2 and 10 are both true (sufficient).
+ 7. At least 2 of the first 4 statements are true.
+ 8. If statement 7 is false, then statements 4 and 10 are both false (sufficient).
+ 9. Only if statement 1 is true, then statements 7 and 4 are both true (necessary).
+10. Only if statement 4 is false, then statements 8 and 2 are both true (necessary).
+
+.:: Solutions ::.:
+1-True, 2-False, 3-False, 4-False, 5-False, 6-False, 7-False, 8-False, 9-True, 10-True
+1-True, 2-True, 3-True, 4-True, 5-True, 6-False, 7-True, 8-True, 9-True, 10-False
+1-True, 2-True, 3-True, 4-False, 5-True, 6-True, 7-True, 8-True, 9-True, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=3 level=7 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. Only if statement 7 is true, then statements 4 and 5 are both false (necessary).
+ 3. At least 3 of the next 5 statements are true.
+ 4. If and only if statement 9 is true, then statement 10 is true (sufficient and necessary).
+ 5. At most 1 of the previous statements is false.
+ 6. Only if statement 10 is true, then statement 4 is true (necessary).
+ 7. At least 2 of the first 4 statements are true.
+ 8. Only if statement 5 is true, then statement 9 is false (necessary).
+ 9. At least 7 of the previous 8 statements are false.
+10. At least 1 of the previous 7 statements is true.
+
+.:: Solutions ::.:
+1-True, 2-False, 3-False, 4-False, 5-False, 6-True, 7-False, 8-False, 9-False, 10-True
+1-True, 2-True, 3-True, 4-False, 5-True, 6-True, 7-True, 8-True, 9-False, 10-True
+1-True, 2-True, 3-False, 4-False, 5-False, 6-True, 7-True, 8-False, 9-False, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=3 level=8 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. If and only if statement 4 is true, then statement 6 is false (sufficient and necessary).
+ 3. Only if statement 6 is true, then statement 5 is false (necessary).
+ 4. Only if statement 7 is false, then statements 5 and 3 are both true (necessary).
+ 5. If statement 1 is true, then statement 9 is false (sufficient).
+ 6. If and only if statement 2 is false, then statement 7 is false (sufficient and necessary).
+ 7. If and only if statement 10 is true, then statement 3 is true (sufficient and necessary).
+ 8. If statement 10 is true, then statements 9 and 5 are both true (sufficient).
+ 9. If and only if statement 10 is true, then statements 8 and 7 are both false (sufficient and necessary).
+10. If and only if statement 1 is false, then statements 5 and 8 are both true (sufficient and necessary).
+
+.:: Solutions ::.:
+1-True, 2-True, 3-True, 4-False, 5-True, 6-True, 7-True, 8-False, 9-False, 10-True
+1-True, 2-False, 3-True, 4-False, 5-True, 6-False, 7-True, 8-False, 9-False, 10-True
+1-True, 2-True, 3-False, 4-True, 5-False, 6-False, 7-False, 8-False, 9-True, 10-True
+====================================================================================================
+.:: Puzzle statements=10 solutions=3 level=8 ::.
+ 1. This is a numbered list of 10 statements.
+ 2. If and only if statement 1 is true, then statements 6 and 9 are both false (sufficient and necessary).
+ 3. Only if statement 9 is false, then statement 6 is true (necessary).
+ 4. Only if statement 10 is true, then statement 7 is true (necessary).
+ 5. If and only if statement 10 is false, then statement 2 is true (sufficient and necessary).
+ 6. If and only if statement 2 is true, then statement 9 is true (sufficient and necessary).
+ 7. If and only if statement 4 is false, then statements 6 and 5 are both false (sufficient and necessary).
+ 8. If and only if statement 2 is true, then statement 4 is true (sufficient and necessary).
+ 9. If statement 10 is false, then statements 2 and 6 are both false (sufficient).
+10. If and only if statement 8 is true, then statement 7 is false (sufficient and necessary).
+
+.:: Solutions ::.:
+1-True, 2-False, 3-True, 4-True, 5-False, 6-False, 7-False, 8-False, 9-True, 10-False
+1-True, 2-False, 3-True, 4-True, 5-True, 6-False, 7-True, 8-False, 9-True, 10-True
+1-True, 2-False, 3-True, 4-False, 5-False, 6-False, 7-True, 8-True, 9-True, 10-False
+====================================================================================================
